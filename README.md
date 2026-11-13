@@ -65,15 +65,6 @@ mealdb-react-native-app/
         └── mealUtils.js
 ```
 
-## Scénario conseillé pour la vidéo de démonstration
-
-1. Lancer l'application avec `npm start`.
-2. Montrer le chargement initial.
-3. Montrer les catégories et sélectionner `Beef`, puis `Chicken`.
-4. Cliquer sur un plat pour ouvrir l'écran de détails.
-5. Faire défiler les ingrédients et les instructions.
-6. Revenir à l'accueil avec `Go back`.
-7. Ouvrir l'écran `Recherche`, chercher `Arrabiata` ou `Chicken`, puis ouvrir un résultat.
 
 ## Publication GitHub
 
